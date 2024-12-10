@@ -5,9 +5,8 @@ A simple and efficient task management tool to organize your daily activities an
 ## 📋 Features
 
 - Add, edit, and delete tasks
-- Mark tasks as completed
-- Filter tasks by category or status
-- User-friendly and responsive interface
+- Mark tasks as Done, In progress or To do
+- Filter tasks by category, status or all tasks
 
 ## 🚀 Technologies
 
