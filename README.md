@@ -65,6 +65,7 @@ Copy code
 git push origin my-feature
 Open a Pull Request.
 📝 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the LICENSE file for more details. Project inspiration in https://roadmap.sh/projects/task-tracker
+
 
 Developed by Filipe Silva. 💻
